@@ -1,6 +1,6 @@
 package com.kita.first.level2.pratice;
 
-public class Pratice08 {
+public class Practice08 {
 	public static void main(String[] args) {
 		int[] arr1 = new int[10];
 		

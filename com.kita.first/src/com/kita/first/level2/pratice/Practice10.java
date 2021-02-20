@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import com.kita.first.level2.For1;
 
-public class Pratice10 {
+public class Practice10 {
 public static void main(String[] args) {
 	int max = 9;
 	int min = 1;

@@ -2,7 +2,7 @@ package com.kita.first.level2.pratice;
 
 import java.util.Arrays;
 
-public class Pratice09 {
+public class Practice09 {
 public static void main(String[] args) {
 	int[] arr = new int[100];
 	

@@ -2,7 +2,7 @@ package com.kita.first.level2.pratice;
 
 import java.util.Scanner;
 
-public class Pratice07 {
+public class Practice07 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int max = 90;
